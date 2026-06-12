@@ -1,7 +1,7 @@
 [project]
-name = "ocr-hdv"
+name = "textindiagrams"
 version = "0.1.0"
-description = "Add your description here"
+description = "Environment for Text Detection in Historical Astronomical Diagrams."
 readme = "README.md"
 requires-python = "==3.11.*"
 dependencies = [
