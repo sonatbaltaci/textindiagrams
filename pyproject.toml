@@ -1,7 +1,7 @@
 [project]
 name = "textindiagrams"
 version = "0.1.0"
-description = "Environment for Text Detection in Historical Astronomical Diagrams."
+description = "Environment for Text Region Detection in Historical Astronomical Diagrams."
 readme = "README.md"
 requires-python = "==3.11.*"
 dependencies = [
