@@ -1,6 +1,6 @@
-# Text Detection in Historical Astronomical Diagrams 
+# Text Region Detection in Historical Astronomical Diagrams 
 
-Official repository of the paper _"Text detection in historical astronomical diagrams"_. We introduce the first large, diverse, open-access dataset of **948** historical astronomical diagrams annotated with **10,940** oriented polygonal text regions that spans ten centuries (8<sup>th</sup> to 18<sup>th</sup>) and seven major traditions: Arabic, Persian, Chinese, Byzantine, Latin, Hebrew, and Sanskrit.
+Official repository of the paper _"Text region detection in historical astronomical diagrams"_. We introduce the first large, diverse, open-access dataset of **948** historical astronomical diagrams annotated with **10,940** oriented polygonal text regions that spans ten centuries (8<sup>th</sup> to 18<sup>th</sup>) and seven major traditions: Arabic, Persian, Chinese, Byzantine, Latin, Hebrew, and Sanskrit.
 
 # Dataset
 
@@ -157,7 +157,7 @@ For interactive evaluation, see `notebook/detection_evaluation.ipynb` (class-agn
 # Citation :bookmark:
 ```
 @inproceedings{baltaci2026text,
-  title={Text detection in historical astronomical diagrams},
+  title={Text region detection in historical astronomical diagrams},
   author={Baltaci, Zeynep Sonat and Baena, Rapha\"el and Meng, Fei and Norindr, Som and Somer, Florence and Husson, Matthieu and Aubry, Mathieu},
   booktitle={ICDAR},
   year={2026}
