@@ -1215,7 +1215,7 @@ wheels = [
 ]
 
 [[package]]
-name = "ocr-hdv"
+name = "textindiagrams"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
