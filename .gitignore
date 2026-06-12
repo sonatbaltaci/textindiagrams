@@ -1,0 +1,103 @@
+# ==========================
+# Python & uv Environment
+# ==========================
+.venv/
+env/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+**/.mypy_cache/
+*.egg-info/
+.dumbo.json
+
+# ==========================
+# System & IDEs
+# ==========================
+.DS_Store
+.vscode/
+.idea/
+.*.swp
+.nfs*
+*.tmp
+
+# ==========================
+# C++ / CUDA Build Artifacts
+# ==========================
+*.so
+*.o
+*.egg
+build/
+dist/
+**/build/
+**/dist/
+.ninja_deps
+.ninja_log
+
+# ==========================
+# ML Data, Logs & Outputs
+# ==========================
+data/
+datasets/synthetic_resource/
+outputs/
+logs/
+jobs/
+subs/
+tmp/
+wandb/
+eida_checkpoints/
+
+# ==========================
+# Weights & Large Files
+# ==========================
+*.pth
+*.pkl
+*.zip
+
+# ==========================
+# Jupyter Notebooks
+# ==========================
+.ipynb_checkpoints
+*/.ipynb_checkpoints/
+
+# ==========================
+# Specific Scripts/Files
+# ==========================
+models/dino/ops/make.sh
+*.sub
+### --- Python / Environment --- ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.pth
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+
+### --- Editor / OS --- ###
+.DS_Store
+.vscode/
+.swp
+.nfs*
+*.tmp
+
+### --- Data & Logs --- ###
+data/
+datasets/synthetic_resource/*
+logs/
+wandb/
+*.pkl
+.dumbo.json
+
+### --- Project Specific Directories --- ###
+jobs/
+subs/
+tmp/
+not_tracked_dir/
+*.sub
+
+### --- Cuda / Dino Build Artifacts --- ###
+**/models/dino/**/build/
+**/models/dino/**/dist/
