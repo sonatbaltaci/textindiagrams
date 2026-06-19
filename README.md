@@ -2,6 +2,8 @@
 
 Official repository of the paper _"Text region detection in historical astronomical diagrams"_. We introduce the first large, diverse, open-access dataset of **948** historical astronomical diagrams annotated with **10,940** oriented polygonal text regions that spans ten centuries (8<sup>th</sup> to 18<sup>th</sup>) and seven major traditions: Arabic, Persian, Chinese, Byzantine, Latin, Hebrew, and Sanskrit.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2606.15886-b31b1b.svg)](https://arxiv.org/abs/2606.15886)
+
 # Dataset
 
 <p align='center'>
