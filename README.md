@@ -160,7 +160,7 @@ For interactive evaluation, see `notebook/detection_evaluation.ipynb` (class-agn
 ```
 @inproceedings{baltaci2026text,
   title={Text region detection in historical astronomical diagrams},
-  author={Baltaci, Zeynep Sonat and Baena, Rapha\"el and Meng, Fei and Norindr, Som and Somer, Florence and Husson, Matthieu and Aubry, Mathieu},
+  author={Baltaci, Zeynep Sonat and Baena, Raphael and Meng, Fei and Norindr, Somkeo and Somer, Florence and Husson, Matthieu and Aubry, Mathieu},
   booktitle={ICDAR},
   year={2026}
 }
